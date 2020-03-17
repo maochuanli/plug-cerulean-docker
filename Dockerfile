@@ -1,3 +1,3 @@
-FROM plugnet/plugblockchain:1.0.0-rc2
+FROM cennznet/cennznet:latest
 
-COPY cerulean.json /plug/cerulean.json
+COPY nikau.json /plug/nikau.json
