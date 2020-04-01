@@ -1,3 +1,2 @@
-FROM plugnet/plugblockchain:1.0.0-rc2
+FROM cennznet/cennznet:1.0.0
 
-COPY cerulean.json /plug/cerulean.json
