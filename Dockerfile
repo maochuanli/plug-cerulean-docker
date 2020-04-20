@@ -1,3 +1,3 @@
 FROM cennznet/cennznet:latest
 
-COPY nikau.json /plug/nikau.json
+COPY nikau.raw.json /plug/nikau.json
